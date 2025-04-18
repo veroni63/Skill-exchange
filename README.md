@@ -1,6 +1,7 @@
-  title: "👩‍🏫 Skill Exchange Platform"
-  description: "A full-stack Skill Exchange Platform connecting students and mentors using React, Node.js, MongoDB, and WebSocket."
-  sections:
+  ## 👩‍🏫 Skill Exchange Platform
+  ### A full-stack Skill Exchange Platform connecting students and mentors using React, Node.js, MongoDB, and WebSocket.
+  
+  #### Sections:
 
     - heading: "📁 Project Structure"
       subsections:
